@@ -14,6 +14,9 @@ A injeção de dependência pode ser feita por meio do padrão de projeto Factor
 
 Implementação "SQL Query", implementação de recuperar pelo id (findById), pela entidade departamento (findByDepartment), inserir, atualizar e deletar dados, bem como, demonstrar os seus usos.
 
+## Layout:
+![Mobile 1](https://github.com/ricardoadevmelo/demo-dao-jdbc/blob/main/assets/modelo%20layout.jpg)
+
 ## Modelos conceituais:
 
 :one: <br /> <br />
