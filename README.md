@@ -15,18 +15,18 @@ A injeção de dependência pode ser feita por meio do padrão de projeto Factor
 Implementação "SQL Query", implementação de recuperar pelo id (findById), pela entidade departamento (findByDepartment), inserir, atualizar e deletar dados, bem como, demonstrar os seus usos.
 
 ## Layout:
-![Mobile 1](https://github.com/ricardoadevmelo/demo-dao-jdbc/blob/main/assets/modelo%20layout.jpg)
+![Mobile 1](https://github.com/ricardoadevmelo/assets/blob/main/demo-dao-jdbc/modelo%20layout.jpg)
 
 ## Modelos conceituais:
 
 :one: <br /> <br />
-![Modelo Conceitual](https://github.com/ricardoadevmelo/demo-dao-jdbc/blob/main/assets/modelo%20conceitual1.jpg) <br />
+![Modelo Conceitual](https://github.com/ricardoadevmelo/assets/blob/main/demo-dao-jdbc/modelo%20conceitual1.jpg) <br />
 
 :two: <br /> <br />
-![Modelo Conceitual](https://github.com/ricardoadevmelo/demo-dao-jdbc/blob/main/assets/modelo%20conceitual2.jpg) <br />
+![Modelo Conceitual](https://github.com/ricardoadevmelo/assets/blob/main/demo-dao-jdbc/modelo%20conceitual2.jpg) <br />
 
 :three: <br /> <br />
-![Modelo Conceitual](https://github.com/ricardoadevmelo/demo-dao-jdbc/blob/main/assets/modelo%20conceitual3.jpg) <br />
+![Modelo Conceitual](https://github.com/ricardoadevmelo/assets/blob/main/demo-dao-jdbc/modelo%20conceitual3.jpg) <br />
 
 # Tecnologias utilizadas:
 ## Back end
