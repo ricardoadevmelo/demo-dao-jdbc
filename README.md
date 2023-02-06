@@ -49,3 +49,9 @@ git clone git@github.com:ricardoadevmelo/demo-dao-jdbc.git
 # Autor: <br />
 Ricardo Alves Melo <br />
 https://www.linkedin.com/in/ricardo-alves-melo-3971b9265/
+
+# Agradecimentos: <br />
+
+Professor: Nélio Alves. <br />
+https://devsuperior.com.br/cursos <br />
+https://www.linkedin.com/in/nelio-alves/?originalSubdomain=br
